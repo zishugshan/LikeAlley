@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aldrich</item>
+        <item>@font/alegreya_sans_medium</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/average_sans</item>
+        <item>@font/baloo</item>
+        <item>@font/balthazar</item>
+    </array>
+</resources>
