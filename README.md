@@ -1,2 +1,2 @@
-# LikeAlley
+# kidsFunApp
 Android app
